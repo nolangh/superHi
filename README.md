@@ -1,1 +1,2 @@
-# this is the homework assignment "The pen is mightier than the sword" for superHi
+# this is all the projects for superHi
+# individual projects will be added then seperated once completed.
