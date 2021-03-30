@@ -1,1 +1,1 @@
-# superHi
+# this is the homework assignment "The pen is mightier than the sword" for superHi
