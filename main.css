@@ -1,9 +1,12 @@
-* {
+:root {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth
 }
 
 body {
-    font-family:
+    font-family: ;
+    height: 100%;
+    width: 100%;
 }
