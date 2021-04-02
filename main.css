@@ -12,6 +12,7 @@ body {
 
 /* --------------------------------- header --------------------------------- */
 header {
+    color: white;
     position: fixed;
     top: 40px;
     left: 40px;
@@ -22,7 +23,6 @@ header {
 #bground {
     height: 100vh;
     width: 100%;
-    background-image: url(images/sally_1.jpg);
 }
 
 /* --------------------------------- Footer --------------------------------- */
