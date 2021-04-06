@@ -113,3 +113,9 @@ a {
     transition: all 0.5s;
     cursor: pointer;
 }
+.f-a:hover {
+    color: #cccccc;
+}
+.f-a:active{
+    color:#cccccc;
+}
